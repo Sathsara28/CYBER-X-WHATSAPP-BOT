@@ -12,12 +12,12 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "cyber-x@;;;5VUSmBrJ#ebywPiFYCM2sLr0zGixiLYNrcFhbBSrX2veMLa573qo",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "464ceef6-19e6-491f-bf50-ee8f7bfbddde",
             "required": true,
             "value": ""
         },
